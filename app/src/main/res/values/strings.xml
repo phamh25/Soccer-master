@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Soccer_Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_name_label">First name:</string>
+    <string name="last_name_label">Last name:</string>
+    <string name="team_label">Team: </string>
+    <string name="file_label">File: </string>
+    <string name="uniform_number_label">Uniform number:</string>
+    <string name="goals_label">Goals:</string>
+    <string name="yellow_cards_label">Yellow cards:</string>
+    <string name="red_cards_label">Red cards:</string>
+    <string name="incr_goal_button">+goal</string>
+    <string name="incr_yellow_card_button">+yellow card</string>
+    <string name="incr_red_card_button">+red card</string>
+    <string name="count_players_button">count players</string>
+    <string name="first_player_button">first player</string>
+    <string name="next_player_button">next player</string>
+    <string name="read_button">Read</string>
+    <string name="write_button">Write</string>
+    <string name="populate_players_button">Populate Players</string>
+    <string name="add_player_button">Add player</string>
+    <string name="find_player_button">Find player</string>
+    <string name="remove_player_button">Remove player</string>
+    <string name="clear_database_button">Clear database</string>
+    <string name="all_teams">### ALL ###</string>
+</resources>
